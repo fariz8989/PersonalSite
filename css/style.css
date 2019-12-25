@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+hr{
+  height: 0;
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 6px;
+  border-color: #464159;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Leckerli One', cursive;
+}
+
+h2 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h3 {
+  font-family: 'Titillium Web', sans-serif;
+}
+p{
+  font-family: 'Titillium Web', sans-serif;
+}
+.subtitle {
+  font-family: 'Leckerli One', cursive;
+}
+
+.iam {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #6c7b95;
+  padding-top: 100px;
+  position: relative;
+  height: 557px;
+
+}
+
+.middle-container {
+  background-color: #8bbabb;
+
+}
+
+.bottom-container {
+    background-color: #c7f0db;
+}
+
+.bottom-clouds {
+  position: absolute;
+}
+
+.top-clouds {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.avatar{
+  border-radius: 50%;
+  padding-top: 20px;
+}
